@@ -91,5 +91,28 @@ h2 {
     border-radius: 5px;
 }
 
+.quote{
+    background-color: #E5E7EB;
+}
+
+.quote-container{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 70px 200px;
+}
+
+p.inspiring-quote{
+    width: 100%;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+p.quote-source{
+    align-self: flex-end;
+}
 
 
