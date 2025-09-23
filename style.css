@@ -80,6 +80,7 @@ h2 {
 .info-container{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 30px;
 }
 
@@ -112,6 +113,7 @@ p.inspiring-quote{
 
 p.quote-source{
     align-self: flex-end;
+    font-weight: 800;
 }
 
 .call-to-action{
@@ -145,6 +147,7 @@ p.quote-source{
 
 .cta-card .cta-button{
     border: 3px solid #f9faf8;
+    flex-shrink: 0;
 }
 
 .footer{
