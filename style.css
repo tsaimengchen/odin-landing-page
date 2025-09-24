@@ -59,8 +59,8 @@ ul {
 }
 
 .main-image img{
-    width: 400px;
-    height: auto;
+    width: 300px;
+    height: 300px;
     max-width: 100%;
     border-radius: 5px;
 }
